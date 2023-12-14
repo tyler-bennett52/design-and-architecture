@@ -11,6 +11,9 @@ An editable version can be found [here](https://www.figma.com/file/lifDx53mlEwDz
 
 With the wireframe in place the software team should have plenty to work with for initial buildout. Should be a natural next step for UI/UX to gradually fill in wireframe with more specific design elements (color, photos, etc.)
 
+## Communicating with Developers
+
+
 ## High-Level Architecture
 
 A brief overview of the tech stack required for a shippable product. Not at all comprehensive, but the options listed are mainstream and should not be controversial. This is the highest level view but this type of document can get much more granular and will be useful for communicating from technical to non-technical teams.
